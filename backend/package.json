@@ -10,7 +10,6 @@
     "seed:admin": "node src/scripts/seedAdmin.js",
     "seed:service-requests": "node src/scripts/seedServiceRequests.js"
   },
-
   "keywords": [
     "express",
     "mongodb",
