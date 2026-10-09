@@ -1,4 +1,5 @@
+
 export const environment = {
   production: true,
-  apiOrigin: 'https://api.example.com',
+  apiOrigin: 'https://osta-project-production.up.railway.app',
 };
